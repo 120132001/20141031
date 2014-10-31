@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">clicktester2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="str_tv_info">Ilustra (long)clicks</string>
+
+    <string name="str_nw">Canto Superior esquerdo</string>
+    <string name="str_ne">Canto Superior direito</string>
+    <string name="str_sw">Canto Inferior esquerdo</string>
+    <string name="str_se">Canto Inferior direito</string>
+    
+    <string name="str_red">Red</string>
+    <string name="str_green">Green</string>
+    <string name="str_blue">Blue</string>
+	<string name="str_white">White</string>
+	<string name="str_black">Black</string>
+	<string name="str_marron">Marron</string>
+	<string name="str_yellow">Yellow</string>
+    <string name="str_color_options_title">Pick a color</string>
+	
+</resources>
